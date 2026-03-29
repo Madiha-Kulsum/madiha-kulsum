@@ -65,11 +65,6 @@
   Built a web application using PHP and MySQL where the admin manages products, categories, customers, orders, and stock.
   Users can browse products, add carts, place orders, and receive auto-generated bills/invoices.
 
-###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madiha-Kulsum&layout=compact&theme=radical&hide=css,html)
-###
-
-
 **GitHub Stats**
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madiha-Kulsum&show_icons=true&theme=radical&hide=css,html&count_private=true)
 ### Current Streak
