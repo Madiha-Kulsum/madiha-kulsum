@@ -6,7 +6,6 @@
 <h3 align="center">A passionate frontend developer from Solapur, India</h3>
 
 👨‍💻 **About Me**
-- 🌱 I’m learning: **Backend** and **AWS deployment**.
 - 💼 I have skills in: **React.js**, **React Native**, **React Native**, **API development**, **PHP**, **JavaScript**, **Angular**, and **MongoDB**.
 - 💼 Completed Internship at: **Code World Infotech** (PHP, CodeIgniter, React)
 - ⚡ Fun fact: I love turning code into real-world solutions 🚀
@@ -40,10 +39,10 @@
 
 📂 **Featured Projects**
 
-- 🎯 **Second Job Search – Complete Job Portal (React + Vite)**  
+-🎯 **Second Job Search – Complete Job Portal (React + Vite)**  
   Built a full-featured job portal where job seekers can create AIpowered CVs and receive email/SMS notifications for relevant openings.
 
-- 🧑‍💼 **Mobile-based receipt, medicine, and document management application ‘Receptor’ for US clients (React Native - Android and iOS)**
+-🧑‍💼 **Mobile-based receipt, medicine, and document management application ‘Receptor’ for US clients (React Native - Android and iOS)**
   Developed a mobile application where users can upload receipts, medicines, and important documents.
   Implemented voice notifications for medicine reminders and email notifications for important updates.
   Added member management feature allowing users to add and manage multiple members.
@@ -77,3 +76,10 @@
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madiha-Kulsum&theme=radical)
 ### Max Streak
 ![Max Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madiha-Kulsum&type=max&theme=radical)
+
+
+📫 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-kulsum-shaikh-837811262/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:madihakulsumshaikh@gmail.com)
+
