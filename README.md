@@ -49,29 +49,25 @@
   Added member management feature allowing users to add and manage multiple members.
   Integrated Stripe payment gateway for secure online payments.
 
-- **Web-based car service management platform 'CarFixIT' for UAE clients (React.js)**
+-🧑‍💼 **Web-based car service management platform 'CarFixIT' for UAE clients (React.js)**
   Developed a responsive eCommerce website using React.js where users can explore services, book appointments, and manage profiles.
   Built a fully functional Admin Panel in React.js to manage users, bookings, and services via API integration.
   Collaborated with backend developers to structure APIs and handle loading states and error handling efficiently
 
-- **Solvix Tech Solutions – Company Website (WordPress)**
+-🎯 **Solvix Tech Solutions – Company Website (WordPress)**
   Designed and developed the company website using WordPress, including Home, About, and Services pages.
   Implemented a contact form with email notifications sent to both user and admin upon submission.
   Ensured responsive design and improved overall UI/UX of the website.
 
-- **Social Media Usage Tracker App**
+-🧑‍💼 **Social Media Usage Tracker App**
   Built an Android application using React Native with PHP-based APIs to monitor social media usage and trigger alerts when users exceed defined limits.
 
-- **Opticals eCommerce Website**
+-🎯 **Opticals eCommerce Website**
   Built a web application using PHP and MySQL where the admin manages products, categories, customers, orders, and stock.
   Users can browse products, add carts, place orders, and receive auto-generated bills/invoices.
 
-🏆 **Achievements**
-- 🥈 2nd Place – Dexter National Programming Competition, PAH Solapur University (2024)
-- 🥈 2nd Place – Research Paper Presentation – International Conference, Vijaypur (2023)
-
 ###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-kulkarni&layout=compact&theme=radical&hide=css,html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madiha-Kulsum&layout=compact&theme=radical&hide=css,html)
 ###
 
 
